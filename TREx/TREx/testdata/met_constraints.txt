@@ -1,0 +1,2 @@
+t1&t2&EQ(t1.Reign,t2.Reign)&IQ(t1.Dynasty,t2.Dynasty)
+

@@ -1,0 +1,2 @@
+t1&t2&EQ(t1.City,t2.City)&IQ(t1.Country,t2.Country)
+t1&t2&EQ(t1.League,t2.League)&IQ(t1.Country,t2.Country)

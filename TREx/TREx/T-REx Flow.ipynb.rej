@@ -1,0 +1,10 @@
+diff a/T-REx Flow.ipynb b/T-REx Flow.ipynb	(rejected hunks)
+@@ -23,7 +23,7 @@
+     "import sys\n",
+     "sys.path.append('./')\n",
+     "import holoclean\n",
+-    "from detect import NullDetector, ViolationDetector\n",
++    "from detect import NullDetector, ViolationDetector, ErrorsLoaderDetector\n",
+     "from repair.featurize import *"
+    ]
+   },

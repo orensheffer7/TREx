@@ -1,0 +1,37 @@
+tid,attribute,correct_val
+0,Team,F.C. Barcelona
+0,City,Barcelona
+0,Country,Spain
+0,League,La Liga
+0,Year,2019
+0,Rank,1
+1,Team,Atletico Madrid
+1,City,Madrid
+1,Country,Spain
+1,League,La Liga
+1,Year,2019
+1,Rank,2
+2,Team,Real Madrid
+2,City,Madrid
+2,Country,Spain
+2,League,La Liga
+2,Year,2019
+2,Rank,3
+3,Team,F.C. Barcelona
+3,City,Barcelona
+3,Country,Spain
+3,League,La Liga
+3,Year,2018
+3,Rank,1
+4,Team,Atletico Madrid
+4,City,Madrid
+4,Country,Spain
+4,League,La Liga
+4,Year,2018
+4,Rank,2
+5,Team,Real Madrid
+5,City,Madrid
+5,Country,Spain
+5,League,La Liga
+5,Year,2018
+5,Rank,3
